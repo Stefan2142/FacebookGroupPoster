@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-import requests, json,time, csv, os, random
+import json,time, csv, os, random
 from datetime import datetime
 from selenium import webdriver
 from selenium.webdriver.common.by import By
